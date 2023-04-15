@@ -154,6 +154,11 @@ main p {
     border-radius: 25px;
 }
 
+.btn-continue:hover,
+.btn-continue:active {
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%))
+}
+
 
 .attribution { 
     font-size: 11px; text-align: center; 
