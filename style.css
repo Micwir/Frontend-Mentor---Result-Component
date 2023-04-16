@@ -140,7 +140,7 @@ main p {
     align-items: center;
     flex-grow: 1;
     flex-basis: 0;
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .btn-continue {
